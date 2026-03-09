@@ -81,7 +81,7 @@ console.log("TOKEN:", TOKEN)
             <h6 className='inline-block text-[#ffffff8c] hover:text-[#ffc400] hover:border-[#ffc40066] hover:bg-[#ffc4000f] bg-[#ffffff0a] w-[120px]  pt-[2px] pb-[4px] px-[17px] transition-all duration-300   font-medium border rounded-2xl border-[#ffffff1a]'>Adventure</h6>
           </div>
           <hr className='text-[#ffffff0f]'/>
-          <div className='sm:flex-row lg:flex-col flex items-center justify-between mt-[1rem]'>
+          <div className=' flex items-center justify-between mt-[1rem]'>
             <div>
               <h4 className='text-[#ffffff4d]'>Release : <span className='font-semibold text-white'>{movie.parts[index].release_date}</span></h4>
             </div>
